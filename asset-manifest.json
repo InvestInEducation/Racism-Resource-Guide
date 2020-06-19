@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Racism-resource-guide/static/css/main.8c32a9ff.chunk.css",
+    "main.js": "/Racism-resource-guide/static/js/main.8afc6295.chunk.js",
+    "main.js.map": "/Racism-resource-guide/static/js/main.8afc6295.chunk.js.map",
+    "runtime-main.js": "/Racism-resource-guide/static/js/runtime-main.49d2c7ac.js",
+    "runtime-main.js.map": "/Racism-resource-guide/static/js/runtime-main.49d2c7ac.js.map",
+    "static/css/2.a77a6957.chunk.css": "/Racism-resource-guide/static/css/2.a77a6957.chunk.css",
+    "static/js/2.b96fe906.chunk.js": "/Racism-resource-guide/static/js/2.b96fe906.chunk.js",
+    "static/js/2.b96fe906.chunk.js.map": "/Racism-resource-guide/static/js/2.b96fe906.chunk.js.map",
+    "index.html": "/Racism-resource-guide/index.html",
+    "precache-manifest.ba0fad83a3b281b89e4f9a1469355733.js": "/Racism-resource-guide/precache-manifest.ba0fad83a3b281b89e4f9a1469355733.js",
+    "service-worker.js": "/Racism-resource-guide/service-worker.js",
+    "static/css/2.a77a6957.chunk.css.map": "/Racism-resource-guide/static/css/2.a77a6957.chunk.css.map",
+    "static/css/main.8c32a9ff.chunk.css.map": "/Racism-resource-guide/static/css/main.8c32a9ff.chunk.css.map",
+    "static/js/2.b96fe906.chunk.js.LICENSE.txt": "/Racism-resource-guide/static/js/2.b96fe906.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49d2c7ac.js",
+    "static/css/2.a77a6957.chunk.css",
+    "static/js/2.b96fe906.chunk.js",
+    "static/css/main.8c32a9ff.chunk.css",
+    "static/js/main.8afc6295.chunk.js"
+  ]
+}
