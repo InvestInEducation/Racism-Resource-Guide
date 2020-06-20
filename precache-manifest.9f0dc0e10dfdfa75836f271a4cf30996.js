@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "683f57c7ce1d64cf0123536825391455",
+    "revision": "01e1cae915a474066185b18963ad688e",
     "url": "/Racism-resource-guide/index.html"
   },
   {

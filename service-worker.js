@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Racism-resource-guide/precache-manifest.ba0fad83a3b281b89e4f9a1469355733.js"
+  "/Racism-resource-guide/precache-manifest.9f0dc0e10dfdfa75836f271a4cf30996.js"
 );
 
 self.addEventListener('message', (event) => {
