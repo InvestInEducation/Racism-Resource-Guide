@@ -51,3 +51,34 @@ code {
   color: white;
 }
 
+.navbar{
+  display: flex;
+  flex: 1 1;
+  flex-direction: row;
+}
+
+.navbutton{
+width: 100%;
+}
+
+.navbuttonpressed{
+  background-color: black; 
+  color: white;
+  border: 0;
+}
+
+.statpage{
+  display: flex;
+  flex-direction: row;
+  flex: 1 1;
+
+}
+
+.statpane{
+  display: flex;
+  flex-direction: row;
+  flex: 1 2;
+  width: 100%;
+  border: white 1px solid;
+  height: 100%;
+}
